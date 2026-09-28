@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://landed.jobs"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></a>
+<a href="https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></a>
 
 <img src="https://static.b100x.ai/github-repos/images/ai-engineer-portfolio-projects/banner.svg" alt="AI Engineer Portfolio Projects" width="100%">
 
@@ -10,22 +10,22 @@
 [![Projects](https://img.shields.io/badge/projects-80+-6C2BD9)](#-contents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C2BD9.svg)](LICENSE)
 [![Updated](https://img.shields.io/badge/updated-2026--07-00A86B)](#-whats-new-2026-07)
-[![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://landed.jobs)
+[![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home)
 
-**80+ buildable AI engineering portfolio projects for 2026** — grouped by theme, each with difficulty, the skills it proves, and annotated reference resources.
+**80+ buildable AI engineering portfolio projects for 2026**: grouped by theme, each with difficulty, the skills it proves, and annotated reference resources.
 
-*Maintained by [Landed](https://landed.jobs) — daily AI-native job matches, agent help with every application, and mock-interview prep.*
+*Maintained by [Landed](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home): daily AI-native job matches, agent help with every application, and mock-interview prep.*
 
 </div>
 
 ---
 
-This is the **broad, browsable catalog** — 80+ genuinely distinct, buildable AI engineering projects across 10 themes, each tagged with a difficulty, the exact skills it proves, and 1–3 typed, license-noted reference resources. **Pick by your skill gap, not by vibe:** find the theme where your portfolio is thinnest, ship 3–5 projects with real evals and a live URL, and write each README as a product spec. **One production project with proper evals beats five tutorial clones** — hiring managers scan for observability, error handling, eval rigor, and a live link in about 90 seconds.
+This is the **broad, browsable catalog**: 80+ genuinely distinct, buildable AI engineering projects across 10 themes, each tagged with a difficulty, the exact skills it proves, and 1–3 typed, license-noted reference resources. **Pick by your skill gap, not by vibe:** find the theme where your portfolio is thinnest, ship 3–5 projects with real evals and a live URL, and write each README as a product spec. **One production project with proper evals beats five tutorial clones**: hiring managers scan for observability, error handling, eval rigor, and a live link in about 90 seconds.
 
-> ⭐ **Star this repo** — it's the exhaustive companion to the curated shortlist, refreshed for 2026.
+> ⭐ **Star this repo**: it's the exhaustive companion to the curated shortlist, refreshed for 2026.
 
 > [!NOTE]
-> **Want just the top 12 that actually land jobs?** This catalog is breadth. For the curated, opinionated shortlist of the highest-signal builds — the ones hiring managers scan for — see the sibling repo **[projects-to-land-an-ai-job →](https://github.com/landedjobs/projects-to-land-an-ai-job)**.
+> **Want just the top 12 that actually land jobs?** This catalog is breadth. For the curated, opinionated shortlist of the highest-signal builds, the ones hiring managers scan for, see the sibling repo **[projects-to-land-an-ai-job →](https://github.com/landedjobs/projects-to-land-an-ai-job)**.
 
 ```mermaid
 flowchart LR
@@ -62,13 +62,13 @@ flowchart LR
 
 ## 🏆 What wins: a 90-second scan
 
-Hiring managers don't clone your repo — they scan it. This is what they look for, in order:
+Hiring managers don't clone your repo, they scan it. This is what they look for, in order:
 
 | Signal | Why it wins | Where to add it |
 |--------|-------------|-----------------|
 | **Production RAG** (hybrid + reranking + citations) | Most-cited must-have skill | [RAG apps](catalog/rag-apps.md) |
 | **Eval suite** (faithfulness, precision, hallucination rate) | "Eval is the new system design" | [Evals & LLMOps](catalog/evals-llmops.md) |
-| **Live deployment URL** (Vercel / Modal / Railway) | Reviewers won't clone — they click | [Production & serving](catalog/production-serving.md) |
+| **Live deployment URL** (Vercel / Modal / Railway) | Reviewers won't clone, they click | [Production & serving](catalog/production-serving.md) |
 | **README as product spec** (problem, arch diagram, eval numbers, cost) | Reads as a shipped product | every project |
 | **Observability + cost tracking** (Langfuse / Phoenix) | Signals production maturity | [Evals & LLMOps](catalog/evals-llmops.md) |
 | **Error handling** (retry, backoff, cost caps) | Signals reliability | [Agents](catalog/agents.md) |
@@ -158,7 +158,7 @@ Demos incredibly well live. One polished voice or vision app is a memorable arti
 *…and 3 more (LLaVA visual chat, MiniGPT-4 captioning/VQA, text-to-image + eval).*
 
 ### 🧩 Structured extraction → [full list (7)](catalog/structured-extraction.md)
-Quietly the most employable skill — every enterprise AI feature depends on it.
+Quietly the most employable skill, every enterprise AI feature depends on it.
 
 | Project | What you build | Skills | Difficulty |
 |---------|----------------|--------|:----------:|
@@ -170,7 +170,7 @@ Quietly the most employable skill — every enterprise AI feature depends on it.
 *…and 3 more (entity disambiguation, calibrated classification, web-page → records).*
 
 ### 🔬 LLM from-scratch & internals → [full list (7)](catalog/llm-from-scratch.md)
-Doesn't ship a product — buys **interview credibility.** Pair each with a short write-up.
+Doesn't ship a product, buys **interview credibility.** Pair each with a short write-up.
 
 | Project | What you build | Skills | Difficulty |
 |---------|----------------|--------|:----------:|
@@ -225,44 +225,44 @@ The most under-built theme relative to demand. Build one and you're differentiat
 
 ## 🧰 Best build-with-me hubs to learn from
 
-Don't start from a blank file — these hubs have runnable references for almost every project above. **License matters if you plan to redistribute:** ship your own work MIT, and only adapt MIT/Apache/CC0 code (with attribution).
+Don't start from a blank file, these hubs have runnable references for almost every project above. **License matters if you plan to redistribute:** ship your own work MIT, and only adapt MIT/Apache/CC0 code (with attribution).
 
 | Hub | Stars | License | Best for |
 |-----|:-----:|---------|----------|
-| 💻 [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 116k | Apache-2.0 | 100+ ready-to-run agent + RAG apps — the widest starter set |
+| 💻 [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 116k | Apache-2.0 | 100+ ready-to-run agent + RAG apps, the widest starter set |
 | 💻 [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 97.6k | Apache-2.0 (code) | Build a GPT from scratch: pretraining → fine-tuning, chapter by chapter |
 | 💻 [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 36.2k | MIT | In-depth tutorials across RAG, agents, evals, MCP, and serving |
 | 💻 [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 33.2k | MIT | 500+ agent use cases with links to open-source implementations |
-| 💻 [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 28.2k | ⚠️ Non-commercial (custom) | The best RAG-technique notebooks — **re-implement, don't redistribute** |
+| 💻 [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 28.2k | ⚠️ Non-commercial (custom) | The best RAG-technique notebooks, **re-implement, don't redistribute** |
 | 💻 [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) | 4.2k | check repo | Hiring research: take-homes, assignments, what interviewers actually ask |
 
 > [!WARNING]
-> **License caution:** only `RAG_Techniques` here is non-commercial — study and re-implement its techniques in your own code rather than copying notebooks into a repo you publish. Everything else is MIT/Apache-2.0 and safe to fork with attribution.
+> **License caution:** only `RAG_Techniques` here is non-commercial, study and re-implement its techniques in your own code rather than copying notebooks into a repo you publish. Everything else is MIT/Apache-2.0 and safe to fork with attribution.
 
 ---
 
 ## 🆕 What's new (2026-07)
 
-- **Launched** — 85 projects across 10 themes, each with difficulty, proven-skills, and annotated references. Sibling to the curated [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job).
+- **Launched**: 85 projects across 10 themes, each with difficulty, proven-skills, and annotated references. Sibling to the curated [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job).
 - **New in 2026:** MCP-powered coding agents, computer-use/browser agents, GRPO/RL fine-tuning on verifiable rewards, reasoning-model distillation (R1-style), and ColPali-style visual document RAG.
-- **"Eval is the new system design"** — expanded the Evals & LLMOps theme (CI gates, drift monitors, red-team suites) because it's the most under-built vs. how much interviewers ask.
-- **Context engineering** added to the Prompt & DSPy theme — the 2026 replacement for string-fiddling.
+- **"Eval is the new system design"**: expanded the Evals & LLMOps theme (CI gates, drift monitors, red-team suites) because it's the most under-built vs. how much interviewers ask.
+- **Context engineering** added to the Prompt & DSPy theme, the 2026 replacement for string-fiddling.
 
 ---
 
 ## ❓ FAQ
 
 **How many portfolio projects do I need to get an AI engineering job?**
-Fewer than you think — **quality over quantity.** Ship **3–5 deeply-evaluated projects**, each with a live URL and an eval table, and **pin 6 max** on your GitHub. One production RAG project with proper evals beats five tutorial clones. Hiring managers scan for depth (observability, error handling, real numbers), not count.
+Fewer than you think, **quality over quantity.** Ship **3–5 deeply-evaluated projects**, each with a live URL and an eval table, and **pin 6 max** on your GitHub. One production RAG project with proper evals beats five tutorial clones. Hiring managers scan for depth (observability, error handling, real numbers), not count.
 
 **What are good beginner AI project ideas?**
-Start 🟢: a [document Q&A RAG](catalog/rag-apps.md) with citations, a [resume parser](catalog/structured-extraction.md) with confidence scores, a [BPE tokenizer from scratch](catalog/llm-from-scratch.md), a [CLIP image search](catalog/multimodal.md), or a [support-ticket classifier](catalog/gtm-ai-pm.md). Each is a weekend build that proves one clear skill — then add an eval table to level it up.
+Start 🟢: a [document Q&A RAG](catalog/rag-apps.md) with citations, a [resume parser](catalog/structured-extraction.md) with confidence scores, a [BPE tokenizer from scratch](catalog/llm-from-scratch.md), a [CLIP image search](catalog/multimodal.md), or a [support-ticket classifier](catalog/gtm-ai-pm.md). Each is a weekend build that proves one clear skill, then add an eval table to level it up.
 
 **What are the best AI agent project ideas for 2026?**
-The differentiated ones: a [multi-agent research team](catalog/agents.md) (LangGraph supervisor), an [MCP-powered coding agent](catalog/agents.md), a [persistent-memory agent](catalog/agents.md), or a [computer-use/browser agent](catalog/agents.md). What makes them stand out isn't the framework — it's **retry/backoff, cost caps, guardrails, and tracing.** Add those and you're past 90% of portfolios.
+The differentiated ones: a [multi-agent research team](catalog/agents.md) (LangGraph supervisor), an [MCP-powered coding agent](catalog/agents.md), a [persistent-memory agent](catalog/agents.md), or a [computer-use/browser agent](catalog/agents.md). What makes them stand out isn't the framework, it's **retry/backoff, cost caps, guardrails, and tracing.** Add those and you're past 90% of portfolios.
 
 **How do I make a project stand out?**
-Four things: (1) a **live URL** — reviewers click, they don't clone; (2) an **eval table** with 3+ metrics and real numbers; (3) a **README written as a product spec** (problem → architecture diagram → eval numbers → cost); (4) **cost/latency figures** ($/1k tokens, p50/p95). Bonus: an open-source PR to a framework you used. See the [90-second scan](#-what-wins-a-90-second-scan).
+Four things: (1) a **live URL**: reviewers click, they don't clone; (2) an **eval table** with 3+ metrics and real numbers; (3) a **README written as a product spec** (problem → architecture diagram → eval numbers → cost); (4) **cost/latency figures** ($/1k tokens, p50/p95). Bonus: an open-source PR to a framework you used. See the [90-second scan](#-what-wins-a-90-second-scan).
 
 **Should I build breadth or depth?**
 Depth. Use this catalog to find the *theme* where your portfolio is weakest, then go deep on 3–5 projects there. For the curated shortlist of the highest-signal builds, see [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job).
@@ -271,22 +271,22 @@ Depth. Use this catalog to find the *theme* where your portfolio is weakest, the
 
 ## 🤝 Contributing
 
-PRs and issues welcome — add a project, fix a broken link, or update a star count. Every project must be **buildable**, and every entry must include **skills + difficulty + at least one annotated reference**. See [CONTRIBUTING.md](CONTRIBUTING.md).
+PRs and issues welcome, add a project, fix a broken link, or update a star count. Every project must be **buildable**, and every entry must include **skills + difficulty + at least one annotated reference**. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
 ## Related
 
-Part of the [Landed](https://landed.jobs) AI-native job-search family:
+Part of the [Landed](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home) AI-native job-search family:
 
-- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs) — the umbrella that maps the whole AI-native job landscape
-- 🚀 [ai-engineer-jobs](https://github.com/landedjobs/ai-engineer-jobs) — 300 live AI engineer roles, auto-updated
-- 🤝 [forward-deployed-engineer-jobs](https://github.com/landedjobs/forward-deployed-engineer-jobs) — FDE & customer-facing engineering
-- 📈 [gtm-engineer-jobs](https://github.com/landedjobs/gtm-engineer-jobs) — GTM engineering roles
-- 📘 [ai-interview-guides](https://github.com/landedjobs/ai-interview-guides) — 33 company interview guides
-- ❓ [ai-interview-questions](https://github.com/landedjobs/ai-interview-questions) — 331 real interview questions with answers
-- 🧪 [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job) — portfolio projects that actually get you hired
-- 🗺️ [ai-product-engineer-roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap) — the AI product engineer roadmap
+- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs): the umbrella that maps the whole AI-native job landscape
+- 🚀 [ai-engineer-jobs](https://github.com/landedjobs/ai-engineer-jobs): 300 live AI engineer roles, auto-updated
+- 🤝 [forward-deployed-engineer-jobs](https://github.com/landedjobs/forward-deployed-engineer-jobs): FDE & customer-facing engineering
+- 📈 [gtm-engineer-jobs](https://github.com/landedjobs/gtm-engineer-jobs): GTM engineering roles
+- 📘 [ai-interview-guides](https://github.com/landedjobs/ai-interview-guides): interview guides for 200 companies
+- ❓ [ai-interview-questions](https://github.com/landedjobs/ai-interview-questions): 759 AI interview questions with answers
+- 🧪 [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job): portfolio projects that actually get you hired
+- 🗺️ [ai-product-engineer-roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap): the AI product engineer roadmap
 
 <div align="center">
 
@@ -294,9 +294,9 @@ Part of the [Landed](https://landed.jobs) AI-native job-search family:
 
 ### Stop spraying. Get **matched**, get **prepped**, get **Landed**.
 
-[![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://landed.jobs)
+[![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home)
 
-<sub>Maintained by [Landed](https://landed.jobs) · No affiliation with the companies or projects named. Content MIT-licensed; referenced repos retain their own licenses.</sub>
+<sub>Maintained by [Landed](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home) · No affiliation with the companies or projects named. Content MIT-licensed; referenced repos retain their own licenses.</sub>
 
 ![Star History](https://api.star-history.com/svg?repos=landedjobs/ai-engineer-portfolio-projects&type=Date)
 
