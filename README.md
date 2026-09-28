@@ -53,7 +53,7 @@ flowchart LR
 | 🧠 **Prompt & DSPy** | 6 | Metric-driven prompt optimization, context eng. | [catalog/prompt-dspy.md](catalog/prompt-dspy.md) |
 | 🚀 **GTM & AI-PM prototypes** | 7 | GTM automation, prototyping, AI-PM builds | [catalog/gtm-ai-pm.md](catalog/gtm-ai-pm.md) |
 
-**Total: 85 projects.** Also below: [what wins in 2026](#-what-wins-a-90-second-scan) · [best build-with-me hubs](#-best-build-with-me-hubs-to-learn-from) · [what's new](#-whats-new-2026-07) · [FAQ](#-faq).
+**Total: 85 projects.** Free courses for 9 of the 10 themes: [learn the skills on landed.jobs](#-learn-the-skills-on-landedjobs). Also below: [what wins in 2026](#-what-wins-a-90-second-scan) · [best build-with-me hubs](#-best-build-with-me-hubs-to-learn-from) · [what's new](#-whats-new-2026-07) · [FAQ](#-faq).
 
 **Difficulty legend:** 🟢 Beginner · 🟡 Intermediate · 🔴 Advanced
 **Link types:** 📄 paper · 📘 docs · 🎬 video · 🧑‍🏫 course · 🛠️ tool · 💻 repo
@@ -238,6 +238,27 @@ Don't start from a blank file, these hubs have runnable references for almost ev
 
 > [!WARNING]
 > **License caution:** only `RAG_Techniques` here is non-commercial, study and re-implement its techniques in your own code rather than copying notebooks into a repo you publish. Everything else is MIT/Apache-2.0 and safe to fork with attribution.
+
+---
+
+## 🎓 Learn the skills on landed.jobs
+
+Nine of the ten themes have free courses on [landed.jobs](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home) that teach the skills behind the builds. The projects stay here; the courses teach what they prove. Lesson counts in brackets.
+
+| Theme | Courses |
+|---|---|
+| 🔎 RAG apps | [Retrieval-Augmented Generation](https://www.landed.jobs/resources/courses/rag-systems?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-rag-systems) (7) · [Enterprise RAG & Secure Deployment](https://www.landed.jobs/resources/courses/fde-enterprise-rag?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-fde-enterprise-rag) (6) |
+| 🤖 Agents & tool-use | [Reliable tool contracts for agents](https://www.landed.jobs/resources/courses/agent-tool-contracts?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-agent-tool-contracts) (4) · [Stateful agent workflows that survive interruption](https://www.landed.jobs/resources/courses/agent-stateful-workflows?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-agent-stateful-workflows) (4) · [Agent failure investigation and interview lab](https://www.landed.jobs/resources/courses/agent-failure-lab?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-agent-failure-lab) (4) |
+| 📊 Evals & LLMOps | [Agents, Evals & LLMOps](https://www.landed.jobs/resources/courses/agents-evals-llmops?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-agents-evals-llmops) (7) · [GenAI Evaluation for Data Scientists](https://www.landed.jobs/resources/courses/ds-genai-eval?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-ds-genai-eval) (6) |
+| 🎛️ Fine-tuning & training | [Fine-Tuning & Inference Optimization](https://www.landed.jobs/resources/courses/fine-tuning-inference?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-fine-tuning-inference) (6) |
+| 🧩 Structured extraction · 🧠 Prompt & DSPy | [Ship Your First LLM Feature](https://www.landed.jobs/resources/courses/llm-features?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-llm-features) (6) |
+| 🔬 LLM from-scratch & internals | [Transformers & LLM Internals](https://www.landed.jobs/resources/courses/transformers-internals?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-transformers-internals) (7) |
+| ⚙️ Production & serving | [Reliable multi-tenant model serving](https://www.landed.jobs/resources/courses/ai-infra-serving?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-ai-infra-serving) (4) · [GPU capacity and inference mechanics](https://www.landed.jobs/resources/courses/ai-infra-capacity?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-ai-infra-capacity) (4) · [Backend Foundations for AI Builders](https://www.landed.jobs/resources/courses/backend-foundations-ai?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-backend-foundations-ai) (8) |
+| 🚀 GTM & AI-PM prototypes | [Customer-Facing AI Prototypes](https://www.landed.jobs/resources/courses/gtm-customer-prototypes?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-gtm-customer-prototypes) (5) · [GTM Engineering Stack & Automation](https://www.landed.jobs/resources/courses/gtm-stack-automation?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-gtm-stack-automation) (6) · [AI Product Sense & PRDs](https://www.landed.jobs/resources/courses/pm-product-sense?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=course-pm-product-sense) (6) |
+
+**Where these projects lead.** [AI Engineer roadmap](https://www.landed.jobs/resources/roadmaps/ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=roadmap-ai-engineer) · [LLM Engineer roadmap](https://www.landed.jobs/resources/roadmaps/llm-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=roadmap-llm-engineer) · [Applied AI Engineer roadmap](https://www.landed.jobs/resources/roadmaps/applied-ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=roadmap-applied-ai-engineer) · [AI Product Engineer roadmap](https://www.landed.jobs/resources/roadmaps/ai-product-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=roadmap-ai-product-engineer) · [AI Engineer salaries](https://www.landed.jobs/salaries/ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=salaries-ai-engineer)
+
+**Then the interview.** [awesome-ai-engineer-interview](https://github.com/landedjobs/awesome-ai-engineer-interview) for the loop, [759 AI interview questions by role](https://github.com/landedjobs/ai-interview-questions), and interview guides for [200 companies](https://github.com/landedjobs/ai-interview-guides).
 
 ---
 
